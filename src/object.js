@@ -28,6 +28,11 @@ const cat = {
   say: function () {
     console.log(this.sound);
   }
+  /*
+  say:say = () =>{
+    syntext error
+  }
+  */
 };
 cat.say();
 
